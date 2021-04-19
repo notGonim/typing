@@ -1,5 +1,9 @@
 # Typing
 
+> Just practice Angular
+Here i generate a random text and check if i guess it right or not 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
 
 ## Development server
